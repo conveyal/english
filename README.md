@@ -39,3 +39,6 @@ Don't use spaces. For a range (e.g. Monday–Friday or 10–30), use an en dash,
 
 Oxford commas (a comma before the and in a list of one or more items) should be used. If the list items themselves contain commas, replace the delimiters with semicolons. E.g. "New York, Atlanta, and Hong Kong" or 
 Atlanta; Hong Kong; and Washington, DC."
+
+## Transit vs. Public Transportation
+For US-heavy audiences, use public transportation, or transit if that is too verbose.  For international audiences, use public transport.
